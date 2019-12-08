@@ -1,6 +1,6 @@
 {
     "name": "klochko/lib1",
-    "description": "Test lib tps",
+    "description": "Lib test",
     "type": "library",
     "authors": [
         {
@@ -8,5 +8,6 @@
             "email": "l_klochko@wargaming.net"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
